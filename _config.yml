@@ -30,7 +30,8 @@ twitter_username: ssuty
 github_username:  ctyeong
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
